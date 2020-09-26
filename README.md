@@ -1,4 +1,4 @@
-# Go-No-Queue-Rush-Estimator-for-Corporate-Cafeteria
+# People Counter
 
 In this project you will learn how to build a “people counter” with OpenCV and Python. Using OpenCV, we’ll count the number of people who are heading “in” or “out” of a department store in real-time.
 
